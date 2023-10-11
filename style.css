@@ -180,6 +180,12 @@
             object-fit: cover;
             border-radius: 20%;
         }
+        .image .Projects-img2{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            border-radius: 20%;
+        }
         .Projects_card{
             position: absolute;
             top: 500%;
