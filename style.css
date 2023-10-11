@@ -71,8 +71,8 @@
         }
         .skill2{
             position: absolute;
-            top: 146%;
-            left: 22%;
+            top: 150%;
+            left: 18%;
             display: flex;
             text-align: center;
             width: 770px;
@@ -89,7 +89,7 @@
         }
         .icon{
             position: absolute;
-            top: 150%;
+            top: 155%;
             left: 18%;
             display: flex;
             text-align: center;
