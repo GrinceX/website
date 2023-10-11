@@ -182,7 +182,7 @@
         }
         .Projects_card{
             position: absolute;
-            top: 600%;
+            top: 1000%;
             left: 18%;
             display: flex;
             flex-direction: column;
