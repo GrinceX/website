@@ -82,7 +82,7 @@
             box-shadow: 0px 0px 5px #0d1321;
         }
         .skill2 p {
-            padding: 0 101px;
+            padding: 0 108px;
             font-size: 20px;
             padding-bottom: 30px;
             color: #f0ebd8;
@@ -90,7 +90,7 @@
         .icon{
             position: absolute;
             top: 155%;
-            left: 18%;
+            left: 19%;
             display: flex;
             text-align: center;
             color: #f0ebd8;
